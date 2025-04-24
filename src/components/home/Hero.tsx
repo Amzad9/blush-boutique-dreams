@@ -4,7 +4,6 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 
-// Hero slider content
 const heroSlides = [
   {
     title: "Elevate Your Style",
@@ -32,7 +31,7 @@ const heroSlides = [
   },
 ];
 
-const Hero: React.FC = () => {
+const Hero = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   useEffect(() => {
