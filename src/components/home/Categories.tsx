@@ -7,31 +7,31 @@ const categories = [
   {
     id: "new-arrivals",
     title: "New Arrivals",
-    image: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7",
+    image: "https://images.pexels.com/photos/17456897/pexels-photo-17456897.jpeg",
     link: "/new-arrivals",
   },
   {
     id: "best-sellers",
     title: "Best Sellers",
-    image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+    image: "https://images.pexels.com/photos/18255682/pexels-photo-18255682.jpeg",
     link: "/best-sellers",
   },
   {
     id: "dresses",
     title: "Dresses",
-    image: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7",
+    image: "https://images.pexels.com/photos/17215851/pexels-photo-17215851.jpeg",
     link: "/dresses",
   },
   {
     id: "travel-sets",
     title: "Travel Sets",
-    image: "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952",
+    image: "https://images.pexels.com/photos/9558567/pexels-photo-9558567.jpeg",
     link: "/travel-sets",
   },
   {
     id: "coord-sets",
     title: "Co-ord Sets",
-    image: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7",
+    image: "https://images.pexels.com/photos/9558760/pexels-photo-9558760.jpeg",
     link: "/coord-sets",
   },
 ];
