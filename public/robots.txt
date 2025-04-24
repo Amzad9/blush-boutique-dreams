@@ -1,14 +1,17 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://blush-boutique-dreams.com/sitemap.xml
+
+# Block access to admin and api routes
+Disallow: /admin/
+Disallow: /api/
+
+# Allow search engines to crawl main sections
+Allow: /new-arrivals
+Allow: /best-sellers
+Allow: /travel-sets
+Allow: /dresses
+Allow: /coord-sets
+Allow: /sale
